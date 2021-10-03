@@ -11,8 +11,10 @@ import Services from './components/Services/Services';
 function App() {
   return (
     <div className="App">
+      {/* declaring router  */}
       <BrowserRouter>
         <Header></Header>
+        {/* using switch to navigate through pages  */}
         <Switch>
           <Route exact path="/">
             <Home></Home>
