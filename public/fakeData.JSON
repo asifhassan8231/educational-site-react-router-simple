@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "How To Overcome Fear",
+        "details": "This course will help you to overcome your fear both in the personal life and the corporate life.",
+        "price": 99,
+        "img": "https://cdn.explore-life.com/media/3562/conversions/facebook.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rejection 101",
+        "details": "We Always fear about getting rejected by somebody.This lesson will teach you how to overcome this.",
+        "price": 139,
+        "img": "https://padfieldpartnership.com/pad/wp-content/uploads/2017/09/Rejected-1024x938.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Happiness",
+        "details": "Happiness is the main pill you need right now. But don't know how to get this. Enroll to this course right now.",
+        "price": 299,
+        "img": "https://earth-alert.com/wp-content/uploads/2018/11/Steve-Cutts.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Anger Management",
+        "details": "This personal development course will help you to fight your biggest enemy, Anger.",
+        "price": 149,
+        "img": "https://www.cancertodaymag.org/PublishingImages/issues/2020%20Summer/Home%20and%20Landing%20Pages/8-power-of-anger-1500.jpg"
+    },
+    {
+        "id": 5,
+        "name": "The Power of Attitude",
+        "details": "Attitude is the way of life. But that doesn't mean that you will hurt anybody.You learn to control that.",
+        "price": 79,
+        "img": "https://pbs.twimg.com/profile_images/1333450125105111043/qzci5rQO.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Self Help",
+        "details": "Before diving into helping somebody why don't you self yourself first! Join to learn more about this.",
+        "price": 199,
+        "img": "https://www.qminder.com/resources/img/blog/benefits-self-service.png"
+    },
+    {
+        "id": 7,
+        "name": "Doctor in your home",
+        "details": "In the time of emergency it is crucial to get help. Learn the basics of first aid lesson from us.",
+        "price": 159,
+        "img": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2018/03/travelFirstAid1-1146852943-770x533-1-650x428.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Get away from dog!",
+        "details": "Dog Attack is common in our life. Know how to save yourself from this attack.",
+        "price": 69,
+        "img": "https://www.clipartmax.com/png/small/1-14522_clip-art-german-shepherd-dog-10-cool-hd-wallpaper-dogs-black-and.png"
+    },
+    {
+        "id": 9,
+        "name": "Win Heart",
+        "details": "Don't know how to win your favorite person's heart? Enroll right now to learn all the tricks and tips!",
+        "price": 123,
+        "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTczODM3MzQ2OTIyMzA4NzQx/how-to-win-her-heart-back.jpg"
+    }
+]
