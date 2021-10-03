@@ -1,9 +1,11 @@
 # Rejection Therapy
 
-The link of the project [link](https://github.com/facebook/create-react-app).
+The link of the project [link](https://rejection-therapy-edu.netlify.app/).
 
-## Available Scripts
+## key points
 
-In the project directory, you can run:
+- this project is about providing self-help or motivational guidelines
+- an user can purchase courses from here
+- this website also includes blog section called reader's cafe for those who love to read articles
 
 
